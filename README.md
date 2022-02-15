@@ -2,7 +2,9 @@ Hi, I’m @Y2K-WasMyFault.
 
 Sorry.  It was me.  I wrote Y2K bugs. A lot of them.  Then got paid to fix them.  Good times.
 
-I’m interested in smart contracts in Python, on the Bitcoin and Algorand blockchains.
+I’m interested in smart contracts in Python, on the Algorand blockchain, and in Bitcoin dApps.
+
+I promise not to write any Y3K bugs.
 
 
 <!---
